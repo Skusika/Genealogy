@@ -1,0 +1,5 @@
+__pycache__
+.venv/
+.idea/
+/backend/study/fixtures/
+/backend/study/templates/
